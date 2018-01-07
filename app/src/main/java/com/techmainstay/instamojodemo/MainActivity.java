@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                callInstamojoPay("nileshgkwd03@gmail.com","7276846618","11","payment","nilesh");
+                callInstamojoPay("your email","mobile no","amount","remark","name");
             }
         });
 
